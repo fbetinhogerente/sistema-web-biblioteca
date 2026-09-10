@@ -1,0 +1,6 @@
+gerar_senha.php
+teste_conexao.php
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
